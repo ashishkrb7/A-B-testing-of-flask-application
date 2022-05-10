@@ -1,6 +1,6 @@
 # ⚡ Load balancing tool for A/B testing of flask application
 
-## 👉 Different types of testing
+## 👉 Different types of Deployment
 ![](./docs/how%20to%20deploy%20services.jpg)
 
 ## Workflow diagram
