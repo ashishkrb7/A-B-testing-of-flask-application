@@ -55,5 +55,5 @@
 
 Ashish Kumar
 
-[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishkrb7/)](https://www.linkedin.com/in/ashishk766/) 
+[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishkrb7/)](https://www.linkedin.com/in/ashishkrb7/) 
 [![Gmail](https://img.shields.io/badge/-Ashish%20Kumar-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ashishkrb7@gmail.com)](mailto:ashishkrb7@gmail.com)
